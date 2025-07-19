@@ -684,7 +684,3 @@ except
 select car_vin, car_price_czk 
 from deal
 join car using(car_vin)
-
-select * from car where car_vin = 'EF6GH1234IJ678901'
-
-select count(deal_id) from de]

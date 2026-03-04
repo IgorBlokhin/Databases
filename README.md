@@ -2,7 +2,7 @@
 
 Semestrální projekt v PostgreSQL pro předmět **Relační databázové systémy (UJEP)**.
 
-Databáze **auto_sales** slouží jako jednoduchý informační systém pro síť autosalonů.
+Databáze **Auto_sales** slouží jako jednoduchý informační systém pro síť autosalonů.
 
 ---
 
